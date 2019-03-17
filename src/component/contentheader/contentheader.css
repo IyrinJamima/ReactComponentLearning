@@ -1,0 +1,21 @@
+.nav1 {
+    display: flex;
+}
+.account{
+    padding: 50px;
+    color:black;
+    text-align: right;
+    margin-left: 26%;
+}
+.add{
+    padding: 50px;
+    color: white;
+    text-align: right;
+    margin-left: 18%;
+}
+.button{
+    background-color:lawngreen;
+    border-radius: 10px; 
+    justify-content: center; 
+    padding: 5px;
+}
